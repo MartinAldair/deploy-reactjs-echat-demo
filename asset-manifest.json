@@ -1,0 +1,27 @@
+{
+  "files": {
+    "static/js/0.fbe10b7f.chunk.js": "/deploy-reactjs-echat-demo/static/js/0.fbe10b7f.chunk.js",
+    "main.css": "/deploy-reactjs-echat-demo/static/css/main.35797f08.chunk.css",
+    "main.js": "/deploy-reactjs-echat-demo/static/js/main.d0631832.chunk.js",
+    "runtime-main.js": "/deploy-reactjs-echat-demo/static/js/runtime-main.ae0fa16a.js",
+    "static/css/3.eda5744e.chunk.css": "/deploy-reactjs-echat-demo/static/css/3.eda5744e.chunk.css",
+    "static/js/3.e86e7744.chunk.js": "/deploy-reactjs-echat-demo/static/js/3.e86e7744.chunk.js",
+    "static/js/4.845ca4c8.chunk.js": "/deploy-reactjs-echat-demo/static/js/4.845ca4c8.chunk.js",
+    "index.html": "/deploy-reactjs-echat-demo/index.html",
+    "precache-manifest.a0c6e8b284fc21118390d1357ab98f5c.js": "/deploy-reactjs-echat-demo/precache-manifest.a0c6e8b284fc21118390d1357ab98f5c.js",
+    "service-worker.js": "/deploy-reactjs-echat-demo/service-worker.js",
+    "static/js/3.e86e7744.chunk.js.LICENSE.txt": "/deploy-reactjs-echat-demo/static/js/3.e86e7744.chunk.js.LICENSE.txt",
+    "static/js/4.845ca4c8.chunk.js.LICENSE.txt": "/deploy-reactjs-echat-demo/static/js/4.845ca4c8.chunk.js.LICENSE.txt",
+    "static/media/flags.css": "/deploy-reactjs-echat-demo/static/media/flags_responsive.73e6b012.png",
+    "static/media/font-awesome.css": "/deploy-reactjs-echat-demo/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/getFetch.cjs": "/deploy-reactjs-echat-demo/static/media/getFetch.51c934af.cjs",
+    "static/media/primeicons.css": "/deploy-reactjs-echat-demo/static/media/primeicons.e01fd413.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae0fa16a.js",
+    "static/css/3.eda5744e.chunk.css",
+    "static/js/3.e86e7744.chunk.js",
+    "static/css/main.35797f08.chunk.css",
+    "static/js/main.d0631832.chunk.js"
+  ]
+}
